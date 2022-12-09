@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main- Entry point of the program
  * Return: The value to be returned is zero.
  */

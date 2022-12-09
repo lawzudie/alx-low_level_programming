@@ -1,7 +1,7 @@
 #include <stdio.h>
-/**
- * Main
- * return (0)
+/** 
+ * main- Entry point of the program
+ * Return: The value to be returned is zero.
  */
 int main(void)
 {

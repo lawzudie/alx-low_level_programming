@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * _islower - this function checks lower case character
- *@c - the ASCII 
- * Return: 1 if int c is lowercase, 0 if otherwise
+ * _islower - shows if 1 at input is a
+ * lowercase character and another shows 0
+ * @c: The character in ASCII code
+ * Return: 1 for lowercase and 0 for others
  */
 int _islower(int c)
 {
-	if (c >= 97 && c <= 122)
+	if (c >= 97 && c <= 22)
 	{
 		return (1);
 	}

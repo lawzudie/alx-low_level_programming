@@ -1,10 +1,11 @@
-#include "main.h"
-
 /**
+ * #include "main.h"
+
+
  * main - check the code
  *
  * Return: Always 0
- */
+ *
 int main(void)
 {
 	char s1[98] = "Hello ";
@@ -19,3 +20,4 @@ int main(void)
 	printf("%s", ptr);
 	return (0);
 }
+*/
